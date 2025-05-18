@@ -1,0 +1,1550 @@
+{
+  "domain": "Türkçe",
+  "age_ranges": [
+    {
+      "range": "36-48",
+      "area_skills": [
+        {
+          "code": "TADB",
+          "title": "Dinleme/İzleme",
+          "integrated_skills": [
+            {
+              "code": "TAB1.1",
+              "title": "Dinlemeyi/İzlemeyi Yönetme",
+              "process_components": [
+                {
+                  "code": "TAB1.1.SB1",
+                  "title": "Seçim yapmak",
+                  "learning_outcome": {
+                    "code": "TADB.1",
+                    "text": "Dinleyecekleri/izleyecekleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri yönetebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Kendisine sunulan seçenekler arasından dinleyecekleri/izleyecekleri materyalleri seçer."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB1.1.SB2",
+                  "title": "İlişkiyi sürdürmek",
+                  "learning_outcome": {
+                    "code": "TADB.1",
+                    "text": "Dinleyecekleri/izleyecekleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri yönetebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Seçilen materyalleri dinler/izler."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAB1.2",
+              "title": "Anlam Oluşturma",
+              "process_components": [
+                {
+                  "code": "TAB1.2.SB1",
+                  "title": "Ön bilgilerle bağlantı kurmak",
+                  "learning_outcome": {
+                    "code": "TADB.2",
+                    "text": "Dinledikleri/izledikleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri ile ilgili yeni anlamlar oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Dinledikleri/izledikleri iletilerde yer alan bilgiler ile günlük yaşamı arasında ilişki kurar."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB1.2.SB2",
+                  "title": "Tahmin etmek",
+                  "learning_outcome": {
+                    "code": "TADB.2",
+                    "text": "Dinledikleri/izledikleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri ile ilgili yeni anlamlar oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Görsellerden yararlanarak dinleyecekleri/izleyecekleri hakkındaki tahminlerini söyler."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "TAOB",
+          "title": "Okuma",
+          "integrated_skills": [
+            {
+              "code": "TAB2.1",
+              "title": "Okumayı Yönetme",
+              "process_components": [
+                {
+                  "code": "TAB2.1.SB1",
+                  "title": "İnceleme ve görüş oluşturmak",
+                  "learning_outcome": {
+                    "code": "TAOB.1",
+                    "text": "Resimli öykü kitabı, dijital araçlar, afiş, broşür gibi görsel materyalleri seçebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Kendisine sunulan görsel okuma materyallerini inceler."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB2.1.SB2",
+                  "title": "Seçim yapmak",
+                  "learning_outcome": {
+                    "code": "TAOB.1",
+                    "text": "Resimli öykü kitabı, dijital araçlar, afiş, broşür gibi görsel materyalleri seçebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Kendisine sunulan seçenekler arasından görsel okuma materyallerini seçer."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAB2.2",
+              "title": "Anlam Oluşturma",
+              "process_components": [
+                {
+                  "code": "TAB2.2.SB1",
+                  "title": "Ön bilgilerle bağlantı kurmak",
+                  "learning_outcome": {
+                    "code": "TAOB.2",
+                    "text": "Görsel materyallerden anlamlar üretebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Görsel okuma materyallerinde yer alan bilgiler ile günlük yaşamı arasında ilişki kurar."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB2.2.SB2",
+                  "title": "Tahmin etmek",
+                  "learning_outcome": {
+                    "code": "TAOB.2",
+                    "text": "Görsel materyallerden anlamlar üretebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Görsellerden hareketle metinle ilgili tahminde bulunur."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "TAKB",
+          "title": "Konuşma",
+          "integrated_skills": [
+            {
+              "code": "TAB3.1",
+              "title": "Konuşmayı Yönetme",
+              "process_components": [
+                {
+                  "code": "TAB3.1.SB1",
+                  "title": "Seçim yapmak",
+                  "learning_outcome": {
+                    "code": "TAKB.1",
+                    "text": "Konuşma sürecini yönetebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Yetişkin yönlendirmesiyle konuşacağı konuyu seçer."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.1.SB2",
+                  "title": "İlişkiyi sürdürmek",
+                  "learning_outcome": {
+                    "code": "TAKB.1",
+                    "text": "Konuşma sürecini yönetebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Konuşmaya başlamak için uygun zamanı bekler ve yetişkin yönlendirmesiyle bir konu hakkında konuşur."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAB3.2",
+              "title": "İçerik Oluşturma",
+              "process_components": [
+                {
+                  "code": "TAB3.2.SB1",
+                  "title": "Ön bilgilerle bağlantı kurmak",
+                  "learning_outcome": {
+                    "code": "TAKB.2",
+                    "text": "Konuşma sürecinin içeriğini oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Konuşacağı konu ile günlük yaşamı arasında bağlantı kurar."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.2.SB2",
+                  "title": "Tahmin etmek",
+                  "learning_outcome": {
+                    "code": "TAKB.2",
+                    "text": "Konuşma sürecinin içeriğini oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Konuşmanın devamı hakkındaki tahminini söyler."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "TAEOB",
+          "title": "Erken Okuryazarlık",
+          "integrated_skills": [
+            {
+              "code": "TAEOB1",
+              "title": "Erken Okuryazarlık Becerileri",
+              "process_components": [
+                {
+                  "code": "TAEOB1.1",
+                  "title": "Görsel sembolleri okumak",
+                  "learning_outcome": {
+                    "code": "TAEOB.1",
+                    "text": "Yazı farkındalığına ilişkin becerileri gösterebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Görsel semboller arasından yazıyı gösterir."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAEOB6",
+              "title": "Yazma öncesi becerileri kazanmak",
+              "process_components": [
+                {
+                  "code": "TAEOB6.1",
+                  "title": "Yazı yazma için gerekli becerileri kazanmak",
+                  "learning_outcome": {
+                    "code": "TAEOB.6",
+                    "text": "Yazma öncesi becerileri kazanabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Boyama ve çizgi çalışmaları yapar."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "range": "48-60",
+      "area_skills": [
+        {
+          "code": "TADB",
+          "title": "Dinleme/İzleme",
+          "integrated_skills": [
+            {
+              "code": "TAB1.1",
+              "title": "Dinlemeyi/İzlemeyi Yönetme",
+              "process_components": [
+                {
+                  "code": "TAB1.1.SB1",
+                  "title": "Seçim yapmak",
+                  "learning_outcome": {
+                    "code": "TADB.1",
+                    "text": "Dinleyecekleri/izleyecekleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri yönetebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Kendisine sunulan seçenekler arasından dinleyecekleri/izleyecekleri materyalleri seçer."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB1.1.SB2",
+                  "title": "İlişkiyi sürdürmek",
+                  "learning_outcome": {
+                    "code": "TADB.1",
+                    "text": "Dinleyecekleri/izleyecekleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri yönetebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Seçilen materyalleri dinler/izler."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAB1.2",
+              "title": "Anlam Oluşturma",
+              "process_components": [
+                {
+                  "code": "TAB1.2.SB1",
+                  "title": "Ön bilgilerle bağlantı kurmak",
+                  "learning_outcome": {
+                    "code": "TADB.2",
+                    "text": "Dinledikleri/izledikleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri ile ilgili yeni anlamlar oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Dinledikleri/izledikleri iletilerde yer alan bilgiler ile günlük yaşamı arasında ilişki kurar."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB1.2.SB2",
+                  "title": "Tahmin etmek",
+                  "learning_outcome": {
+                    "code": "TADB.2",
+                    "text": "Dinledikleri/izledikleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri ile ilgili yeni anlamlar oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Görsellerden yararlanarak dinleyecekleri/izleyecekleri hakkındaki tahminlerini söyler."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB1.2.SB3",
+                  "title": "Çıkarım yapmak",
+                  "learning_outcome": {
+                    "code": "TADB.2",
+                    "text": "Dinledikleri/izledikleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri ile ilgili yeni anlamlar oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "c",
+                        "text": "Dinledikleri/izledikleri materyallere ilişkin çıkarım yapar."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAB1.3",
+              "title": "Çözümleme",
+              "process_components": [
+                {
+                  "code": "TAB1.3.SB1",
+                  "title": "Parçaları belirlemek",
+                  "learning_outcome": {
+                    "code": "TADB.3",
+                    "text": "Dinledikleri/izledikleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri çözümleyebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Dinledikleri/izledikleri materyallerdeki olayları belirler."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "TAOB",
+          "title": "Okuma",
+          "integrated_skills": [
+            {
+              "code": "TAB2.1",
+              "title": "Okumayı Yönetme",
+              "process_components": [
+                {
+                  "code": "TAB2.1.SB1",
+                  "title": "İnceleme ve görüş oluşturmak",
+                  "learning_outcome": {
+                    "code": "TAOB.1",
+                    "text": "Resimli öykü kitabı, dijital araçlar, afiş, broşür gibi görsel materyalleri seçebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Kendisine sunulan görsel okuma materyallerini inceler."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB2.1.SB2",
+                  "title": "Seçim yapmak",
+                  "learning_outcome": {
+                    "code": "TAOB.1",
+                    "text": "Resimli öykü kitabı, dijital araçlar, afiş, broşür gibi görsel materyalleri seçebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Kendisine sunulan seçenekler arasından görsel okuma materyallerini seçer."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAB2.2",
+              "title": "Anlam Oluşturma",
+              "process_components": [
+                {
+                  "code": "TAB2.2.SB1",
+                  "title": "Ön bilgilerle bağlantı kurmak",
+                  "learning_outcome": {
+                    "code": "TAOB.2",
+                    "text": "Görsel materyallerden anlamlar üretebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Görsel okuma materyallerinde yer alan bilgiler ile günlük yaşamı arasında ilişki kurar."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB2.2.SB2",
+                  "title": "Tahmin etmek",
+                  "learning_outcome": {
+                    "code": "TAOB.2",
+                    "text": "Görsel materyallerden anlamlar üretebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Görsellerden hareketle metinle ilgili tahminde bulunur."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB2.2.SB3",
+                  "title": "Çıkarım yapmak",
+                  "learning_outcome": {
+                    "code": "TAOB.2",
+                    "text": "Görsel materyallerden anlamlar üretebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "c",
+                        "text": "Görsel okuma materyallerinde yer alan bilgilerden yararlanarak çıkarım yapar."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAB2.3",
+              "title": "Çözümleme",
+              "process_components": [
+                {
+                  "code": "TAB2.3.SB1",
+                  "title": "Parçaları belirlemek",
+                  "learning_outcome": {
+                    "code": "TAOB.3",
+                    "text": "Resimli öykü kitabı, dijital araçlar, afiş, broşür gibi görsel materyalleri çözümleyebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Görsel okuma materyallerinde yer alan olayları belirler."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "TAKB",
+          "title": "Konuşma",
+          "integrated_skills": [
+            {
+              "code": "TAB3.1",
+              "title": "Konuşmayı Yönetme",
+              "process_components": [
+                {
+                  "code": "TAB3.1.SB1",
+                  "title": "Seçim yapmak",
+                  "learning_outcome": {
+                    "code": "TAKB.1",
+                    "text": "Konuşma sürecini yönetebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Konuşacağı konuyu seçer."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.1.SB2",
+                  "title": "İlişkiyi sürdürmek",
+                  "learning_outcome": {
+                    "code": "TAKB.1",
+                    "text": "Konuşma sürecini yönetebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Kurallara uygun şekilde konuşmayı sürdürür."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAB3.2",
+              "title": "İçerik Oluşturma",
+              "process_components": [
+                {
+                  "code": "TAB3.2.SB1",
+                  "title": "Ön bilgilerle bağlantı kurmak",
+                  "learning_outcome": {
+                    "code": "TAKB.2",
+                    "text": "Konuşma sürecinin içeriğini oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Konuşacağı konu ile günlük yaşamı arasında bağlantı kurar."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.2.SB2",
+                  "title": "Tahmin etmek",
+                  "learning_outcome": {
+                    "code": "TAKB.2",
+                    "text": "Konuşma sürecinin içeriğini oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Konuşmanın devamı hakkındaki tahminini söyler."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "TAEOB",
+          "title": "Erken Okuryazarlık",
+          "integrated_skills": [
+            {
+              "code": "TAEOB1",
+              "title": "Erken Okuryazarlık Becerileri",
+              "process_components": [
+                {
+                  "code": "TAEOB1.1",
+                  "title": "Görsel sembolleri okumak",
+                  "learning_outcome": {
+                    "code": "TAEOB.1",
+                    "text": "Yazı farkındalığına ilişkin becerileri gösterebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Görsel semboller arasından yazıyı gösterir."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAEOB5",
+              "title": "Kitabın nasıl kullanılması gerektiğini bilmek",
+              "process_components": [
+                {
+                  "code": "TAEOB5.1",
+                  "title": "Kitabın nasıl kullanılması gerektiğini bilmek",
+                  "learning_outcome": {
+                    "code": "TAEOB.5",
+                    "text": "Okuma öncesi becerileri kazanabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Kitabın temel unsurlarını bilir."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAEOB6",
+              "title": "Yazı yazma için gerekli becerileri kazanmak",
+              "process_components": [
+                {
+                  "code": "TAEOB6.1",
+                  "title": "Yazı yazma için gerekli becerileri kazanmak",
+                  "learning_outcome": {
+                    "code": "TAEOB.6",
+                    "text": "Yazma öncesi becerileri kazanabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Boyama ve çizgi çalışmaları yapar."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "range": "60-72",
+      "area_skills": [
+        {
+          "code": "TADB",
+          "title": "Dinleme/İzleme",
+          "integrated_skills": [
+            {
+              "code": "TAB1.1",
+              "title": "Dinlemeyi/İzlemeyi Yönetme",
+              "process_components": [
+                {
+                  "code": "TAB1.1.SB1",
+                  "title": "Seçim yapmak",
+                  "learning_outcome": {
+                    "code": "TADB.1",
+                    "text": "Dinleyecekleri/izleyecekleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri yönetebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Dinleyecekleri/izleyecekleri materyalleri seçer."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB1.1.SB2",
+                  "title": "İlişkiyi sürdürmek",
+                  "learning_outcome": {
+                    "code": "TADB.1",
+                    "text": "Dinleyecekleri/izleyecekleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri yönetebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Seçilen materyalleri dinler/izler."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAB1.2",
+              "title": "Anlam Oluşturma",
+              "process_components": [
+                {
+                  "code": "TAB1.2.SB1",
+                  "title": "Ön bilgilerle bağlantı kurmak",
+                  "learning_outcome": {
+                    "code": "TADB.2",
+                    "text": "Dinledikleri/izledikleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri ile ilgili yeni anlamlar oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Dinledikleri/izledikleri materyaller ile ön bilgileri arasında bağlantı kurar."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB1.2.SB2",
+                  "title": "Tahmin etmek",
+                  "learning_outcome": {
+                    "code": "TADB.2",
+                    "text": "Dinledikleri/izledikleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri ile ilgili yeni anlamlar oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Dinledikleri/izledikleri materyaller hakkındaki tahminini söyler."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB1.2.SB3",
+                  "title": "Çıkarım yapmak",
+                  "learning_outcome": {
+                    "code": "TADB.2",
+                    "text": "Dinledikleri/izledikleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri ile ilgili yeni anlamlar oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "c",
+                        "text": "Dinledikleri/izledikleri materyallere ilişkin çıkarım yapar."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB1.2.SB4",
+                  "title": "Karşılaştırmak",
+                  "learning_outcome": {
+                    "code": "TADB.2",
+                    "text": "Dinledikleri/izledikleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri ile ilgili yeni anlamlar oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "ç",
+                        "text": "Dinledikleri/izledikleri materyallerdeki benzerlik ve farklılıkları karşılaştırır."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB1.2.SB5",
+                  "title": "Sınıflandırmak",
+                  "learning_outcome": {
+                    "code": "TADB.2",
+                    "text": "Dinledikleri/izledikleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri ile ilgili yeni anlamlar oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "d",
+                        "text": "Dinledikleri/izledikleri materyallerdeki benzerlik ve farklılıkları sınıflandırır."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB1.2.SB6",
+                  "title": "Tepki vermek",
+                  "learning_outcome": {
+                    "code": "TADB.2",
+                    "text": "Dinledikleri/izledikleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri ile ilgili yeni anlamlar oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "e",
+                        "text": "Dinledikleri/izledikleri hakkında onaylama/reddetme gibi uygun tepkiler verir."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAB1.3",
+              "title": "Çözümleme",
+              "process_components": [
+                {
+                  "code": "TAB1.3.SB1",
+                  "title": "Parçaları belirlemek",
+                  "learning_outcome": {
+                    "code": "TADB.3",
+                    "text": "Dinledikleri/izledikleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri çözümleyebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Dinledikleri/izledikleri materyallerdeki olayların parçalarını belirler."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB1.3.SB2",
+                  "title": "Parçalar arasındaki ilişkileri belirlemek",
+                  "learning_outcome": {
+                    "code": "TADB.3",
+                    "text": "Dinledikleri/izledikleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri çözümleyebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Dinledikleri/izledikleri materyallerde yer alan olayların parçaları arasındaki ilişkiyi belirler."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB1.3.SB3",
+                  "title": "Parçalar arasındaki etkileşimleri belirlemek",
+                  "learning_outcome": {
+                    "code": "TADB.3",
+                    "text": "Dinledikleri/izledikleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyalleri çözümleyebilme",
+                    "sub_learning_outcomes": []
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAB1.4",
+              "title": "Yansıtma",
+              "process_components": [
+                {
+                  "code": "TAB1.4.SB1",
+                  "title": "Kendini değerlendirmek",
+                  "learning_outcome": {
+                    "code": "TADB.4",
+                    "text": "Dinledikleri/izledikleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyaller ve dinleme/izleme ortamına ilişkin görüşlerini yansıtabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Dinleme/izleme ortamını değerlendirir."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB1.4.SB2",
+                  "title": "Tepki ortaya koymak",
+                  "learning_outcome": {
+                    "code": "TADB.4",
+                    "text": "Dinledikleri/izledikleri şiir, hikâye, tekerleme, video, tiyatro, animasyon gibi materyaller ve dinleme/izleme ortamına ilişkin görüşlerini yansıtabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Dinledikleri/izledikleri materyallere ilişkin duygu ve düşüncelerini ifade eder."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "TAOB",
+          "title": "Okuma",
+          "integrated_skills": [
+            {
+              "code": "TAB2.1",
+              "title": "Okumayı Yönetme",
+              "process_components": [
+                {
+                  "code": "TAB2.1.SB1",
+                  "title": "İnceleme ve görüş oluşturmak",
+                  "learning_outcome": {
+                    "code": "TAOB.1",
+                    "text": "Resimli öykü kitabı, dijital araçlar, afiş, broşür gibi görsel materyalleri seçebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "İncelediği görsel materyale dair fikrini ifade eder."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB2.1.SB2",
+                  "title": "Seçim yapmak",
+                  "learning_outcome": {
+                    "code": "TAOB.1",
+                    "text": "Resimli öykü kitabı, dijital araçlar, afiş, broşür gibi görsel materyalleri seçebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Görsel okuma materyallerini seçer."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAB2.2",
+              "title": "Anlam Oluşturma",
+              "process_components": [
+                {
+                  "code": "TAB2.2.SB1",
+                  "title": "Ön bilgilerle bağlantı kurmak",
+                  "learning_outcome": {
+                    "code": "TAOB.2",
+                    "text": "Görsel materyallerden anlamlar üretebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Görsel materyal ile ön bilgileri arasında ilişki kurar."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB2.2.SB2",
+                  "title": "Tahmin etmek",
+                  "learning_outcome": {
+                    "code": "TAOB.2",
+                    "text": "Görsel materyallerden anlamlar üretebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Görsellerden hareketle metinle ilgili tahminde bulunur."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB2.2.SB3",
+                  "title": "Çıkarım yapmak",
+                  "learning_outcome": {
+                    "code": "TAOB.2",
+                    "text": "Görsel materyallerden anlamlar üretebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "c",
+                        "text": "Görsel okuma materyallerinde yer alan bilgilerden yararlanarak çıkarım yapar."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB2.2.SB4",
+                  "title": "Karşılaştırmak",
+                  "learning_outcome": {
+                    "code": "TAOB.2",
+                    "text": "Görsel materyallerden anlamlar üretebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "ç",
+                        "text": "Görsel materyalleri karşılaştırarak benzerlik ve farklılıkları ortaya koyar."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB2.2.SB5",
+                  "title": "Sınıflandırmak",
+                  "learning_outcome": {
+                    "code": "TAOB.2",
+                    "text": "Görsel materyallerden anlamlar üretebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "d",
+                        "text": "Görsel materyalleri çeşitli özelliklerine göre sınıflandırır."
+                      },
+                      {
+                        "letter": "e",
+                        "text": "Görsel materyallere ilişkin olumlu ve olumsuz görüşlerini ifade eder."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAB2.3",
+              "title": "Çözümleme",
+              "process_components": [
+                {
+                  "code": "TAB2.3.SB1",
+                  "title": "Parçaları belirlemek",
+                  "learning_outcome": {
+                    "code": "TAOB.3",
+                    "text": "Resimli öykü kitabı, dijital araçlar, afiş, broşür gibi görsel materyalleri çözümleyebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Görsel materyallerde yer alan olayların parçalarını belirler."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB2.3.SB2",
+                  "title": "Parçalar arası ilişkileri belirlemek",
+                  "learning_outcome": {
+                    "code": "TAOB.3",
+                    "text": "Resimli öykü kitabı, dijital araçlar, afiş, broşür gibi görsel materyalleri çözümleyebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Görsel okuma materyallerinde yer alan olayların parçaları arasındaki ilişkiyi belirler."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAB2.4",
+              "title": "Yansıtma",
+              "process_components": [
+                {
+                  "code": "TAB2.4.SB1",
+                  "title": "Kendini değerlendirmek",
+                  "learning_outcome": {
+                    "code": "TAOB.4",
+                    "text": "Resimli öykü kitabı, dijital araçlar, afiş, broşür gibi görsel materyaller ile ilgili görüşlerini yansıtabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Görsel okuma süreci ve okuma ortamı hakkındaki görüşlerini söyler."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB2.4.SB2",
+                  "title": "Tepki ortaya koymak",
+                  "learning_outcome": {
+                    "code": "TAOB.4",
+                    "text": "Resimli öykü kitabı, dijital araçlar, afiş, broşür gibi görsel materyaller ile ilgili görüşlerini yansıtabilme",
+                    "sub_learning_outcomes": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "TAKB",
+          "title": "Konuşma",
+          "integrated_skills": [
+            {
+              "code": "TAB3.1",
+              "title": "Konuşmayı Yönetme",
+              "process_components": [
+                {
+                  "code": "TAB3.1.SB1",
+                  "title": "Seçim yapmak",
+                  "learning_outcome": {
+                    "code": "TAKB.1",
+                    "text": "Konuşma sürecini yönetebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Konuşacağı konuyu seçer."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.1.SB2",
+                  "title": "İlişkiyi sürdürmek",
+                  "learning_outcome": {
+                    "code": "TAKB.1",
+                    "text": "Konuşma sürecini yönetebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Kurallara uygun şekilde konuşmayı sürdürür."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAB3.2",
+              "title": "İçerik Oluşturma",
+              "process_components": [
+                {
+                  "code": "TAB3.2.SB1",
+                  "title": "Ön bilgilerle bağlantı kurmak",
+                  "learning_outcome": {
+                    "code": "TAKB.2",
+                    "text": "Konuşma sürecinin içeriğini oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Konuşacağı konu ile ön bilgileri arasında bağlantı kurar."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.2.SB2",
+                  "title": "Tahmin etmek",
+                  "learning_outcome": {
+                    "code": "TAKB.2",
+                    "text": "Konuşma sürecinin içeriğini oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Konuşmanın devamı hakkındaki tahminini söyler."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.2.SB3",
+                  "title": "Karşılaştırmak",
+                  "learning_outcome": {
+                    "code": "TAKB.2",
+                    "text": "Konuşma sürecinin içeriğini oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "c",
+                        "text": "Konuşma sürecinde karşılaştırmalar yapar."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.2.SB4",
+                  "title": "Sınıflandırmak",
+                  "learning_outcome": {
+                    "code": "TAKB.2",
+                    "text": "Konuşma sürecinin içeriğini oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "ç",
+                        "text": "Konuşma sürecinde sınıflandırmalar yapar."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.2.SB5",
+                  "title": "Yeniden ifade etmek",
+                  "learning_outcome": {
+                    "code": "TAKB.2",
+                    "text": "Konuşma sürecinin içeriğini oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "d",
+                        "text": "Bir konuyu kendi cümleleriyle yeniden ifade eder."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.2.SB6",
+                  "title": "Tepki vermek",
+                  "learning_outcome": {
+                    "code": "TAKB.2",
+                    "text": "Konuşma sürecinin içeriğini oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "e",
+                        "text": "Gerekli durumlarda başkalarının görüşlerini değerlendirir."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.2.SB7",
+                  "title": "Sesle anlam oluşturmak",
+                  "learning_outcome": {
+                    "code": "TAKB.2",
+                    "text": "Konuşma sürecinin içeriğini oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "f",
+                        "text": "Konuşma sürecinde nefesini/sesini uygun şekilde kullanır."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.2.SB8",
+                  "title": "Görselle anlam oluşturmak",
+                  "learning_outcome": {
+                    "code": "TAKB.2",
+                    "text": "Konuşma sürecinin içeriğini oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "g",
+                        "text": "Konuşmasını desteklemek için görselleri kullanır."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.2.SB9",
+                  "title": "Sunmak",
+                  "learning_outcome": {
+                    "code": "TAKB.2",
+                    "text": "Konuşma sürecinin içeriğini oluşturabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "ğ",
+                        "text": "Hedef kitleye uygun sözlü sunum yapar."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAB3.3",
+              "title": "Kural Uygulama",
+              "process_components": [
+                {
+                  "code": "TAB3.3.SB1",
+                  "title": "Plan hazırlamak",
+                  "learning_outcome": {
+                    "code": "TAKB.3",
+                    "text": "Konuşma sürecindeki kuralları uygulayabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Konuşacağı konuyu planlar."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.3.SB2",
+                  "title": "Düşünceyi geliştirme yollarını kullanmak",
+                  "learning_outcome": {
+                    "code": "TAKB.3",
+                    "text": "Konuşma sürecindeki kuralları uygulayabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Konuşurken benzetme ve örneklendirme içeren ifadeler kullanır."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.3.SB3",
+                  "title": "Uygun söz varlığı kullanmak",
+                  "learning_outcome": {
+                    "code": "TAKB.3",
+                    "text": "Konuşma sürecindeki kuralları uygulayabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "c",
+                        "text": "Konuşurken Türkçeyi doğru kullanır."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.3.SB4",
+                  "title": "İletileri açık biçimde ifade etmek",
+                  "learning_outcome": {
+                    "code": "TAKB.3",
+                    "text": "Konuşma sürecindeki kuralları uygulayabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "ç",
+                        "text": "Söylemek istediklerini açık biçimde ifade eder."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.3.SB5",
+                  "title": "Türkçe dil yapılarını uygulamak",
+                  "learning_outcome": {
+                    "code": "TAKB.3",
+                    "text": "Konuşma sürecindeki kuralları uygulayabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "d",
+                        "text": "Dil bilgisi kurallarına uygun konuşur."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.3.SB6",
+                  "title": "Bağdaşıklık öğelerini kullanmak",
+                  "learning_outcome": {
+                    "code": "TAKB.3",
+                    "text": "Konuşma sürecindeki kuralları uygulayabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "e",
+                        "text": "Konuşmasında cümlenin temel öğelerini ve basit bağlaçlar kullanır."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.3.SB7",
+                  "title": "Beden dilini ve mekânı kullanmak",
+                  "learning_outcome": {
+                    "code": "TAKB.3",
+                    "text": "Konuşma sürecindeki kuralları uygulayabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "f",
+                        "text": "Konuşmasında beden dilini kullanır."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAB3.4",
+              "title": "Yansıtma",
+              "process_components": [
+                {
+                  "code": "TAB3.4.SB1",
+                  "title": "Kendini değerlendirmek",
+                  "learning_outcome": {
+                    "code": "TAKB.4",
+                    "text": "Konuşma sürecine ilişkin görüşlerini yansıtabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Konuşma sürecine etki eden faktörleri söyler."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAB3.4.SB2",
+                  "title": "Tepki ortaya koymak",
+                  "learning_outcome": {
+                    "code": "TAKB.4",
+                    "text": "Konuşma sürecine ilişkin görüşlerini yansıtabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Konuşma sürecindeki hatalarını düzeltir."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "TAEOB",
+          "title": "Erken Okuryazarlık",
+          "integrated_skills": [
+            {
+              "code": "TAEOB1",
+              "title": "Yazı Farkındalığı",
+              "process_components": [
+                {
+                  "code": "TAEOB1.1",
+                  "title": "Görsel sembolleri okumak",
+                  "learning_outcome": {
+                    "code": "TAEOB.1",
+                    "text": "Yazı farkındalığına ilişkin becerileri gösterebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Görsel semboller arasından yazıyı gösterir."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAEOB1.2",
+                  "title": "Yazının yönünü bilmek",
+                  "learning_outcome": {
+                    "code": "TAEOB.1",
+                    "text": "Yazı farkındalığına ilişkin becerileri gösterebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "b",
+                        "text": "Yazı yönünü gösterir."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAEOB1.3",
+                  "title": "İletişimde yazıya ihtiyaç duyulduğunu fark etmek",
+                  "learning_outcome": {
+                    "code": "TAEOB.1",
+                    "text": "Yazı farkındalığına ilişkin becerileri gösterebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "c",
+                        "text": "İletişimde yazıya neden ihtiyaç duyulduğunu açıklar."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAEOB1.4",
+                  "title": "Yazıdaki noktalama işaretlerini fark etmek",
+                  "learning_outcome": {
+                    "code": "TAEOB.1",
+                    "text": "Yazı farkındalığına ilişkin becerileri gösterebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "ç",
+                        "text": "Temel noktalama işaretlerini fark eder."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAEOB2",
+              "title": "Cümle Bilinci",
+              "process_components": [
+                {
+                  "code": "TAEOB2.1",
+                  "title": "Cümlelerin sözcüklerden oluştuğunu fark etmek",
+                  "learning_outcome": {
+                    "code": "TAEOB.2",
+                    "text": "Cümlelerin sözcüklerden oluştuğunu söyleyebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Cümlenin sözcüklerden oluştuğunu fark eder."
+                      },
+                      {
+                        "letter": "b",
+                        "text": "Cümlede sözcükler arasında boşluk olduğunu fark eder."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAEOB3",
+              "title": "Ses Bilgisel Farkındalık",
+              "process_components": [
+                {
+                  "code": "TAEOB3.1",
+                  "title": "Sözcüklerin ilk ve son seslerini fark etmek",
+                  "learning_outcome": {
+                    "code": "TAEOB.3",
+                    "text": "Ses bilgisel farkındalık becerileri gösterebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Sözcüklerin ilk/son seslerini fark eder."
+                      },
+                      {
+                        "letter": "b",
+                        "text": "Sözcüklerin ilk/son seslerinden yeni sözcükler üretir."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "code": "TAEOB3.2",
+                  "title": "Sözcüklerin hece/hecelerden oluştuğunu fark etmek",
+                  "learning_outcome": {
+                    "code": "TAEOB.3",
+                    "text": "Ses bilgisel farkındalık becerileri gösterebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "c",
+                        "text": "Sözcüklerin hece/hecelerden oluştuğunu fark eder."
+                      },
+                      {
+                        "letter": "ç",
+                        "text": "Bazı sözcüklerin uyaklı olduğunu fark eder."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAEOB4",
+              "title": "Harf Bilinci",
+              "process_components": [
+                {
+                  "code": "TAEOB4.1",
+                  "title": "Sözcüklerin harflerden oluştuğunu fark etmek",
+                  "learning_outcome": {
+                    "code": "TAEOB.4",
+                    "text": "Sözcüklerin harflerden oluştuğunu fark edebilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Sözcüklerin harflerden oluştuğunu fark eder."
+                      },
+                      {
+                        "letter": "b",
+                        "text": "Sözcükte yer alan büyük ve küçük harfleri gösterir."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAEOB5",
+              "title": "Okuma Öncesi Beceriler",
+              "process_components": [
+                {
+                  "code": "TAEOB5.1",
+                  "title": "Kitabın nasıl kullanılması gerektiğini bilmek",
+                  "learning_outcome": {
+                    "code": "TAEOB.5",
+                    "text": "Okuma öncesi becerileri kazanabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Kitabın temel unsurlarını bilir."
+                      },
+                      {
+                        "letter": "b",
+                        "text": "Uygun okuma şeklini bilir."
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "code": "TAEOB6",
+              "title": "Yazma Öncesi Beceriler",
+              "process_components": [
+                {
+                  "code": "TAEOB6.1",
+                  "title": "Yazı yazma için gerekli becerileri kazanmak",
+                  "learning_outcome": {
+                    "code": "TAEOB.6",
+                    "text": "Yazma öncesi becerileri kazanabilme",
+                    "sub_learning_outcomes": [
+                      {
+                        "letter": "a",
+                        "text": "Yazma için uygun oturma pozisyonu alır."
+                      },
+                      {
+                        "letter": "b",
+                        "text": "İstenilen nitelikte yazar ve çizer."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
